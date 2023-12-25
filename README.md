@@ -6,16 +6,16 @@ This is a Vue.js website for creating and publishing blog posts. Users can write
 
 ## Project Setup
 
-### Installing Dependencies
+## Installing Dependencies
 Before running the project, make sure to install the required dependencies. Use the following commands:
 
-# Install Axios for making HTTP requests
+### Install Axios for making HTTP requests
 npm install axios
 
-# Install Mitt library for communication between components
+### Install Mitt library for communication between components
 npm install mitt
 
-# Install Vuex for state management
+### Install Vuex for state management
 npm install vuex@next --save
 
 ### Running the App
@@ -23,14 +23,14 @@ npm run serve
 
 The app will be accessible at http://localhost:8080/ by default.
 
-### Features
+## Features
 - Post Creation: Users can create new blog posts by following a step-by-step process.
 - Image Upload: Allows users to upload images for their blog posts.
 - Feed: Displays a feed of existing blog posts.
 - Filter Application: Users can apply filters to their posts.
 - Publishing: Users can publish their posts, making them visible in the feed.
 
-### Project Structure
+## Project Structure
 - src/App.vue: Main component containing the app's structure and logic.
 - src/postdata.js: Initial post data.
 - src/store.js: Vuex store for state management.
@@ -49,5 +49,5 @@ Apply filters to enhance your post.
 Write post content and username.
 Publish your post, making it visible in the feed.
 
-### Author
+## Author
 Kim Anna
