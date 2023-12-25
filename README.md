@@ -1,6 +1,6 @@
 # vuestagram
 
-# Vue.js Blogging App
+# Vue.js Instagram
 
 This is a Vue.js website for creating and publishing blog posts. Users can write content, add images, apply filters, and publish their posts. The website also allows users to view a feed of existing posts and navigate through different steps of the posting process.
 
