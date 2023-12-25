@@ -51,4 +51,3 @@ Publish your post, making it visible in the feed.
 
 ### Author
 Kim Anna
-
