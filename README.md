@@ -36,13 +36,13 @@ The app will be accessible at http://localhost:8080/ by default.
 - src/store.js: Vuex store for state management.
 - src/components/...: Child components having different responsibilities for rendering website interface.
 
-### Built With
+## Built With
 - Vue.js
 - Axios
 - Mitt
 - Vuex
 
-### Usage
+## Usage
 Write a new blog post by following the step-by-step process.
 Upload images to include in your post.
 Apply filters to enhance your post.
